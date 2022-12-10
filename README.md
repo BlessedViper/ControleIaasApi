@@ -13,5 +13,3 @@ A ideia deste projeto originou-se a partir do momento em que foi necessário ter
 **Microsoft.Entity.FrameWorkCore.Tool** - Algumas ferramentas complementares do EntityFramework<br>
 **Swashbuckle.AspNetCore** - Swagger para documentar as rotas da API <br>
 **SQL Server** - Banco de dados para persistir os dados movimentados na API <br>
-
-## Documentação das rotas
